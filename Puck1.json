@@ -1,0 +1,12 @@
+{
+    "name": "PUK1",
+    "symbol": "PUK1",
+    "description": "Silver Puck -- once",
+    "image": "https://github.com/aiamj/test/blob/main/P2.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
